@@ -1,2 +1,6 @@
 # Actividad-1-POO-S2
-Ejercicios del taller número uno del 17 de septiembre, profesor Walter Hugo Arboleda Mazo
+Universidad Nacional de Colombia
+Sede medellín
+Facultad de ciencias de la computación y decisión
+Profesor: Walter Hugo Arboleda Mazo
+Estudiante: Samuel Zapata García
