@@ -1,5 +1,5 @@
 # Actividad-1-POO-S2
-Universidad Nacional de Colombia
+Universidad Nacional de Colombia \n
 Sede medellín
 Facultad de ciencias de la computación y decisión
 Profesor: Walter Hugo Arboleda Mazo
