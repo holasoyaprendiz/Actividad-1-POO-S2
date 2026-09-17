@@ -2,7 +2,7 @@
 
 **Universidad Nacional de Colombia**  
 **Sede Medellín**  
-**Facultad de Ciencias de la Computación y Decisión**  
+**Facultad de Ciencias de la Computación y Decisión - Facultad de Minas**  
 
 ---
 
